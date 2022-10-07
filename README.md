@@ -9,7 +9,7 @@ e rodar o servidor com  (por default está rodando na porta 3002 OU setar no .en
 `npm run start`
 
 Após a instação e execução do backend, para rodar o front (porta default 3009 ou no .env variável PORT):
-`cd frontend`
+`cd front_cadastro`
 `npm install`
 
 
